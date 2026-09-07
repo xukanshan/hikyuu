@@ -77,7 +77,7 @@ INSERT INTO
         tickValue, `precision`, id, type, description, tick, minTradeNumber, maxTradeNumber
     )
 VALUES (
-        0.001, 3, 5, 5, 'ETF', 0.001, 1000, 1000000
+        0.001, 3, 5, 5, 'ETF', 0.001, 100, 1000000
     );
 
 INSERT INTO

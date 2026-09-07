@@ -19,7 +19,7 @@ INSERT INTO `stocktypeinfo` (tickValue,precision,id,type,description,tick,minTra
 INSERT INTO `stocktypeinfo` (tickValue,precision,id,type,description,tick,minTradeNumber,maxTradeNumber) VALUES (0.001,3,2,2,'指数',0.001,1,1000000);
 INSERT INTO `stocktypeinfo` (tickValue,precision,id,type,description,tick,minTradeNumber,maxTradeNumber) VALUES (0.001,3,3,3,'B股',0.001,100,1000000);
 INSERT INTO `stocktypeinfo` (tickValue,precision,id,type,description,tick,minTradeNumber,maxTradeNumber) VALUES (0.001,3,4,4,'基金（不含ETF）',0.001,100,1000000);
-INSERT INTO `stocktypeinfo` (tickValue,precision,id,type,description,tick,minTradeNumber,maxTradeNumber) VALUES (0.001,3,5,5,'ETF',0.001,1000,1000000);
+INSERT INTO `stocktypeinfo` (tickValue,precision,id,type,description,tick,minTradeNumber,maxTradeNumber) VALUES (0.001,3,5,5,'ETF',0.001,100,1000000);
 INSERT INTO `stocktypeinfo` (tickValue,precision,id,type,description,tick,minTradeNumber,maxTradeNumber) VALUES (0.01,2,6,6,'国债',0.01,10,10000);
 INSERT INTO `stocktypeinfo` (tickValue,precision,id,type,description,tick,minTradeNumber,maxTradeNumber) VALUES (0.01,2,7,7,'其他债券',0.01,10,10000);
 INSERT INTO `stocktypeinfo` (tickValue,precision,id,type,description,tick,minTradeNumber,maxTradeNumber) VALUES (0.01,2,8,8,'创业板',0.01,100,1000000);
